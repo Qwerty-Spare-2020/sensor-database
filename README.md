@@ -1,5 +1,7 @@
 # sensor-database
 
+link to the questions google doc file: https://docs.google.com/document/d/1bKd5_BenPi5S6nOL7XjUzM9LmZ7Y3jVF0YkWLgUR1sc/edit
+
 Problem for R1 Batch (Enrolment Numbers BT19CSE001 to BT19CSE030):
 Sensor Database
 Physical Environment Sensor Network: A sensor network consists of spatially dispersed and dedicated sensors for monitoring and recording physical conditions of environment like temperature, sound, humidity, wind, and so on for multiple stations (you can consider different areas in city). The data from all sensors is collected at central location. Each sensor records the corresponding data at continuous time interval daily. Each sensor is represented by sensor ID (integer), sensor type, data it senses, time interval during which it senses the conditions continuously. Two sensors are said to be neighbours and can communicate if they are located at distance of 1000m apart. Solve the following question
