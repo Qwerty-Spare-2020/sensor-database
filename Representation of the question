@@ -1,0 +1,36 @@
+link to the google docs file: https://docs.google.com/document/d/1butHNBCH7tDxX6QiyAphmYFZW-4VGcxpvL0E9_R_kpc/edit
+
+Sensor Database
+
+												
+<> Physical conditions of environment recorded:
+Temperature
+Sound
+Humidity
+Wind
+
+<> All this data is collected to a Central Location or Central Repository.
+<> The sensors are  identified by:
+ID
+Type
+Data it senses
+Time interval
+<>  Two sensors are said to be neighbours if they are 1000m apart.
+<>  Central Repo collects the following:
+Sensor_id
+Date
+Time
+Data (integer or float)
+<> Functions to be created:
+create_data_structure()
+retrieve_info()
+find_communicating_neighbours()
+max_of_the_month()
+find_the _date()
+date_of_hazard()
+
+
+
+Use structures/classes in c or classes in c++
+
+
